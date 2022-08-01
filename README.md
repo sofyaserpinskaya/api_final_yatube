@@ -1,9 +1,19 @@
-# api_final
+# api_yatube - 
 
 ### Описание:
 
 API проекта Yatube (v1).
 
+Yatube - блог-платформа, социальная сеть. 
+- <https://github.com/sofyaserpinskaya/hw05_final>
+
+### Автор:
+
+Софья Серпинская: <https://github.com/sofyaserpinskaya>
+
+### Технологии:
+
+Python, Django, SQLite, Simple JWT, djoser
 
 ### Установка:
 
