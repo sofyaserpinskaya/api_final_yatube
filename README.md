@@ -1,4 +1,4 @@
-# api_yatube - API проекта Yatube
+# api_final_yatube - API проекта Yatube
 
 ### Описание:
 
