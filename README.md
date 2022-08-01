@@ -4,8 +4,7 @@
 
 API проекта Yatube (v1).
 
-Yatube - блог-платформа, социальная сеть. 
-- <https://github.com/sofyaserpinskaya/hw05_final>
+[Yatube](https://github.com/sofyaserpinskaya/hw05_final "Репозиторий проекта") - блог-платформа, социальная сеть.
 
 ### Автор:
 
