@@ -8,7 +8,9 @@ API проекта Yatube (v1).
 
 ### Автор:
 
-[Софья Серпинская](https://github.com/sofyaserpinskaya)
+yatube_api - [Софья Серпинская](https://github.com/sofyaserpinskaya)
+
+tests - [Яндекс.Практикум](https://github.com/yandex-praktikum)
 
 ### Технологии:
 
